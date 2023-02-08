@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "title": "Brown eggs",
+      "type": "dairy",
+      "description": "Raw organic brown eggs in a basket",
+      "filename": "https://www.mashed.com/img/gallery/are-brown-eggs-really-worth-the-extra-cost/intro-1597233855.jpg",
+      "price": 28.1,
+      "rating": 4
+    },
+    {
+      "title": "Sweet fresh stawberry",
+      "type": "fruit",
+      "description": "Sweet fresh stawberry on the wooden table",
+      "filename": "https://5.imimg.com/data5/MM/KD/MY-46960546/strawberry-04-500x500.jpg",
+      "price": 29.45,
+      "rating": 4
+    },
+    {
+      "title": "Asparagus",
+      "type": "vegetable",
+      "description": "Asparagus with ham on the wooden table",
+      "filename": "https://theplantbasedschool.com/wp-content/uploads/2022/05/Boiled-asparagus-4-1.jpg",
+      "price": 18.95,
+      "rating": 3
+    },
+    {
+      "title": "Green smoothie",
+      "type": "dairy",
+      "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+      "filename": "https://thefoodiephysician.com/wp-content/uploads/2021/07/fullsizeoutput_21a4-scaled.jpeg",
+      "price": 17.68,
+      "rating": 4
+    },
+    {
+      "title": "Raw legums",
+      "type": "vegetable",
+      "description": "Raw legums on the wooden table",
+      "filename": "https://images.everydayhealth.com/images/what-are-legumes-types-health-benefits-nutrition-1440x810.jpg",
+      "price": 17.11,
+      "rating": 2
+    },
+    {
+      "title": "Baking cake",
+      "type": "dairy",
+      "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+      "filename": "https://www.thespruceeats.com/thmb/5RlazS_Mpmj1SqI4zRwNxlYmPbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9.BakingaChocolateCakeIced_preview-5b0eeb5d30371300373a5beb.jpeg",
+      "price": 11.14,
+      "rating": 4
+    },
+    {
+      "title": "Pesto with basil",
+      "type": "vegetable",
+      "description": "Italian traditional pesto with basil, chesse and oil",
+      "filename": "https://www.simplyrecipes.com/thmb/QS8FUisjaLPxSgfmpWfpHS3wFJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__08__Fresh-Basil-Pesto-LEAD-2-d990e7900183450dbddb69628bd8a160.jpg",
+      "price": 18.19,
+      "rating": 2
+    },
+    {
+      "title": "onions",
+      "type": "vegetable",
+      "description": "fresh onions direct from the green house",
+      "filename": "https://cdn.shopify.com/s/files/1/0522/4149/8278/products/onionsambhar_600x.jpg?v=1655522645",
+      "price": 27.35,
+      "rating": 0
+    },
+    {
+      "title": "Fresh stawberry",
+      "type": "fruit",
+      "description": "Sweet fresh stawberry on the wooden table",
+      "filename": "https://media.istockphoto.com/id/477834644/photo/fresh-strawberries-background.jpg?s=612x612&w=0&k=20&c=JwLE9J3zbe9A3zdPmt2oF62moYytxeKTMBY-QCruMas=",
+      "price": 28.59,
+      "rating": 4
+    },
+    {
+      "title": "Lemon and salt",
+      "type": "fruit",
+      "description": "Rosemary, lemon and salt on the table",
+      "filename": "https://m.media-amazon.com/images/I/41gqKYKafSL.jpg",
+      "price": 15.79,
+      "rating": 5
+    },
+    {
+      "title": "Homemade bread",
+      "type": "bakery",
+      "description": "Homemade bread",
+      "filename": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Basic-Homemade-Bread_EXPS_TOHcom20_32480_C01_26_2b.jpg",
+      "price": 17.48,
+      "rating": 3
+    },
+    {
+      "title": "Legums",
+      "type": "vegetable",
+      "description": "Cooked legums on the wooden table",
+      "filename": "https://images.everydayhealth.com/images/what-are-legumes-types-health-benefits-nutrition-1440x810.jpg",
+      "price": 14.77,
+      "rating": 0
+    },
+    {
+      "title": "Fresh tomato",
+      "type": "vegetable",
+      "description": "Fresh tomato juice with basil",
+      "filename": "https://2.wlimg.com/product_images/bc-full/2021/1/8111271/fresh-tomato-1609741599-5675776.jpeg",
+      "price": 16.3,
+      "rating": 2
+    },
+    {
+      "title": "Healthy breakfast",
+      "type": "fruit",
+      "description": "Healthy breakfast set. rice cereal or porridge with berries and honey over rustic wood background",
+      "filename": "https://previews.123rf.com/images/sonyakamoz/sonyakamoz1604/sonyakamoz160400259/56024901-healthy-breakfast-set-rice-cereal-or-porridge-with-berries-and-honey-over-rustic-wood-background-hor.jpg",
+      "price": 13.02,
+      "rating": 2
+    },
+    {
+      "title": "Green beans",
+      "type": "vegetable",
+      "description": "Raw organic green beans ready to eat",
+      "filename": "https://post.healthline.com/wp-content/uploads/2020/06/green-beans-732x549-thumbnail.jpg",
+      "price": 28.79,
+      "rating": 1
+    },
+    {
+      "title": "Baked stuffed portabello mushrooms",
+      "type": "bakery",
+      "description": "Homemade baked stuffed portabello mushrooms with spinach and cheese",
+      "filename": "https://thecozyapron.com/wp-content/uploads/2015/08/stuffed-portobello-mushrooms_thecozyapron_1.jpg",
+      "price": 20.31,
+      "rating": 1
+    }
+  ]
+}

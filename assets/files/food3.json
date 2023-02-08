@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "title": "Brown eggs",
+      "type": "dairy",
+      "description": "Raw organic brown eggs in a basket",
+      "filename": "0.png",
+      "price": 28.1,
+      "rating": 4
+    },
+    {
+      "title": "Sweet fresh stawberry",
+      "type": "fruit",
+      "description": "Sweet fresh stawberry on the wooden table",
+      "filename": "1.png",
+      "price": 29.45,
+      "rating": 4
+    },
+    {
+      "title": "Asparagus",
+      "type": "vegetable",
+      "description": "Asparagus with ham on the wooden table",
+      "filename": "2.png",
+      "price": 18.95,
+      "rating": 3
+    },
+    {
+      "title": "Green smoothie",
+      "type": "dairy",
+      "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+      "filename": "3.jpg",
+      "price": 17.68,
+      "rating": 4
+    },
+    {
+      "title": "Raw legums",
+      "type": "vegetable",
+      "description": "Raw legums on the wooden table",
+      "filename": "4.jpg",
+      "price": 17.11,
+      "rating": 2
+    },
+    {
+      "title": "Baking cake",
+      "type": "dairy",
+      "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+      "filename": "5.jpg",
+      "price": 11.14,
+      "rating": 4
+    },
+    {
+      "title": "Pesto with basil",
+      "type": "vegetable",
+      "description": "Italian traditional pesto with basil, chesse and oil",
+      "filename": "6.png",
+      "price": 18.19,
+      "rating": 2
+    },
+    {
+      "title": "onions",
+      "type": "vegetable",
+      "description": "fresh onions direct from the green house",
+      "filename": "7.png",
+      "price": 27.35,
+      "rating": 0
+    },
+    {
+      "title": "Fresh stawberry",
+      "type": "fruit",
+      "description": "Sweet fresh stawberry on the wooden table",
+      "filename": "8.png",
+      "price": 28.59,
+      "rating": 4
+    },
+    {
+      "title": "Lemon and salt",
+      "type": "fruit",
+      "description": "Rosemary, lemon and salt on the table",
+      "filename": "9.png",
+      "price": 15.79,
+      "rating": 5
+    },
+    {
+      "title": "Homemade bread",
+      "type": "bakery",
+      "description": "Homemade bread",
+      "filename": "10.jpg",
+      "price": 17.48,
+      "rating": 3
+    },
+    {
+      "title": "Legums",
+      "type": "vegetable",
+      "description": "Cooked legums on the wooden table",
+      "filename": "11.jpg",
+      "price": 14.77,
+      "rating": 0
+    },
+    {
+      "title": "Fresh tomato",
+      "type": "vegetable",
+      "description": "Fresh tomato juice with basil",
+      "filename": "12.jpg",
+      "price": 16.3,
+      "rating": 2
+    },
+    {
+      "title": "Healthy breakfast",
+      "type": "fruit",
+      "description": "Healthy breakfast set. rice cereal or porridge with berries and honey over rustic wood background",
+      "filename": "13.jpg",
+      "price": 13.02,
+      "rating": 2
+    },
+    {
+      "title": "Green beans",
+      "type": "vegetable",
+      "description": "Raw organic green beans ready to eat",
+      "filename": "14.jpg",
+      "price": 28.79,
+      "rating": 1
+    },
+    {
+      "title": "Baked stuffed portabello mushrooms",
+      "type": "bakery",
+      "description": "Homemade baked stuffed portabello mushrooms with spinach and cheese",
+      "filename": "15.jpg",
+      "price": 20.31,
+      "rating": 1
+    }
+  ]
+}
