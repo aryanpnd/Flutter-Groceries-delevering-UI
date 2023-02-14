@@ -1,4 +1,4 @@
-# my_second_app
+# my_second_app ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 A new Flutter project.
 
